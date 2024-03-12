@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a CS student at **CS student 💻** | **Web developer 🌐**.
 
-- 🌱 I’m currently learning **Beginner Nextjs developer**.
+- 🌱 I’m currently **Nextjs Beginner developer**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmaraNecib?page=1&tab=repositories)**.
 
