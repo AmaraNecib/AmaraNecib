@@ -66,7 +66,7 @@
 ## 💜 Views and Followers:
 
 <a href="https://github.com/AmaraNecib/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+    <img src="https://komarev.com/ghpvc/?username=AmaraNecib">
 </a>
 <a href="https://github.com/AmaraNecib?tab=followers"><img src="https://img.shields.io/github/followers/AmaraNecib?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
