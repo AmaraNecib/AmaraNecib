@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwindcss,react,nextjs,cpp" />
-    <img src="https://skillicons.dev/icons?i=go,github,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=go, postgresSql,github,vscode,figma,postman" /><br>
 </div>
 
 <br>
