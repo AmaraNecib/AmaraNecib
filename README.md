@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently a Master 1 Ai & Data analysis student at **CS student 💻** | **Web developer 🌐**.
+- 🔭 I’m currently a Master 1 Ai & Data analysis student at **EL OUED Univ, Algeria 💻** | **Web developer 🌐**.
 
 - 🌱 I’m currently **Go fiber & Nextjs** developer.
 
