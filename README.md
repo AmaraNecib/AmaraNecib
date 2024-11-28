@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently a CS student at **CS student 💻** | **Web developer 🌐**.
+- 🔭 I’m currently a Master 1 Ai & Data analysis student at **CS student 💻** | **Web developer 🌐**.
 
-- 🌱 I’m currently **Nextjs Beginner developer**.
+- 🌱 I’m currently **Go fiber & Nextjs** developer.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmaraNecib?page=1&tab=repositories)**.
 
