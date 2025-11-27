@@ -34,6 +34,7 @@
 
 <p align="center">
     <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmaraNecib&theme=black-ice&hide_border=true&border_radius=0000&background=060A0CD0" alt="GitHub Streak" /></a> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=AmaraNecib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <a href="https://github.com/AmaraNecib/github-readme-stats"><img alt="AmaraNecib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraNecib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <!-- <a href="https://github.com/AmaraNecib/github-readme-stats"><img alt="AmaraNecib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmaraNecib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
